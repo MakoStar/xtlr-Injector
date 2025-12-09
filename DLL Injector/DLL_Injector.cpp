@@ -35,7 +35,7 @@ DWORD GetProcessByName(const char* lpProcessName)
 int main(const int argc, char* argv[])
 {
     char* lpDLLName;
-    const char* lpProcessName = "StellaSora.exe";
+    const char* lpProcessName = "xtlr.exe";
     char lpFullDLLPath[MAX_PATH];
 
     if (argc == 2)
